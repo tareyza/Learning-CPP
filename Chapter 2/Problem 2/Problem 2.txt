@@ -1,0 +1,8 @@
+a) The standard "int" would work and is extremely flexible. However, "int16_t" can save some memory since people don't live much past 100 years old.
+b) "bool" since this is a yes/no question
+c) "const double" since it should be immutable and has decimal places
+d) The standard "int" would work and is extremely flexible. However, "int16_t" can save some memory since textbooks have no more than a couple thousand pages.
+e) Berkshire Hathaway has stocks worth about $190,000. Thus, we would need "double" to be on the safe side.
+f) "int32_t" due to the large number in the millions.
+g) "char" since it would be a letter
+h) "int16_t" since years would roughly go -4000 to 2017 which is well within range
