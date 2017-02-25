@@ -1,0 +1,5 @@
+a) We don't know if the method call becomes foo(x+1,x+1) or foo(x,x).
+b) Rounding is ambiguous. 
+c) Could be either 1 or -1.
+d) Floating-point addition may have very small errors.
+e) Divide by 0 error.
