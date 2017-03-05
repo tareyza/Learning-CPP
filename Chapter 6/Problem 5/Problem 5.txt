@@ -1,0 +1,5 @@
+a) The loop goes from array index 0 to 5 on an array of size 5.
+b) *prt is const, thus *ptr = 6 is invalid;
+c) In the function printArray, array is a pointer. 
+d) The function returns something that is no longer there when the function is done.
+e) *ptr is an int while d is a double

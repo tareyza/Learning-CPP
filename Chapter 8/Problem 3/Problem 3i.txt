@@ -1,0 +1,1 @@
+Those two variables do not change across different instances of MonsterGenerator. This saves memory.

@@ -1,0 +1,5 @@
+a) Return type should be reference, but the referenced variable is unallocated.
+b) no base case, doesn't terminate.
+c) The two functions are the same, so you can't have both
+d) the array length is too long.
+e) if argc<=1, arv[1] doesn't exist.
