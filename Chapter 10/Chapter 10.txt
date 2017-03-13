@@ -1,0 +1,6 @@
+1) Composition since the animal type has its existence managed by animal
+1b) Dependency since the class with the save function uses another class to perform its task
+1c) Aggregation since the adventurer has the items
+1d) Association since they're mostly unrelated and both can belong to more than one of the other
+1e) Aggregation since the computer contains the CPU but the CPU can also exist outside the computer
+2) composition

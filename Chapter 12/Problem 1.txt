@@ -1,0 +1,6 @@
+1a) The output is "Base" instead of "Derived
+1b) Two methods have different signatures 
+1c) Assignment was by value
+1d) class Base is final
+1e) The syntax " = 0 {return "Derived";}" is incorrect
+1f) Correct output. Note that not all of derived is deleted. 

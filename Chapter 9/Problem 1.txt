@@ -1,0 +1,4 @@
+a) Normal/friend since there are two operands
+b) Member, since only one operand
+c) Normal/friend, since it needs a ostream argument
+d) Member, since its a cast
